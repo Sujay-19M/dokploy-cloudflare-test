@@ -1,5 +1,5 @@
 export default {
   async fetch(request) {
-    return new Response("HELLO FROM GITHUB PROJECT!");
+    return new Response("VERSION 2 - DEPLOYED FROM GITHUB!");
   }
 };
